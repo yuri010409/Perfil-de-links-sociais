@@ -26,13 +26,13 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/1cae9f42-0f67-44a3-ba6c-7a5563fbc2b7" />)
+![](file:///C:/Users/mioma/OneDrive/Pictures/Screenshots/Captura%20de%20tela%202026-08-01%20103550.png)
 
 
 ### Links
 
 - URL do repositório: https://github.com/yuri010409/Perfil-de-links-sociais
-- URL do site no ar: [Link do projeto hospedado (Vercel/GitHub Pages)](SEU_LINK_AQUI)
+- URL do site no ar: https://yuri010409.github.io/Perfil-de-links-sociais/
 
 ---
 
@@ -57,4 +57,3 @@ Neste projeto, pratiquei conceitos fundamentais de front-end, como:
 ## 👤 Autor
 
 - GitHub - @yuri010409
-- Frontend Mentor - [@seu-usuario](https://www.frontendmentor.io/profile/seu-usuario)
