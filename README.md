@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](file:///C:/Users/mioma/OneDrive/Pictures/Screenshots/Captura%20de%20tela%202026-08-01%20103550.png)
+![](assets/images/captura-de-tela.png)
 
 
 ### Links
