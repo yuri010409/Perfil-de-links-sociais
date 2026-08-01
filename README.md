@@ -31,7 +31,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL do repositório: [Link do seu repositório no GitHub](SEU_LINK_AQUI)
+- URL do repositório: https://github.com/yuri010409/Perfil-de-links-sociais
 - URL do site no ar: [Link do projeto hospedado (Vercel/GitHub Pages)](SEU_LINK_AQUI)
 
 ---
@@ -56,6 +56,5 @@ Neste projeto, pratiquei conceitos fundamentais de front-end, como:
 
 ## 👤 Autor
 
-- GitHub - [@seu-usuario](https://github.com/seu-usuario)
+- GitHub - @yuri010409
 - Frontend Mentor - [@seu-usuario](https://www.frontendmentor.io/profile/seu-usuario)
-- LinkedIn - [Seu Nome](https://www.linkedin.com/in/seu-usuario)
